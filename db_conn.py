@@ -8,8 +8,8 @@ db_config = DbConfig(
     })
 ssm_service_config = SsmAccount(
     params={
-        'secret_id': "IKIDlT7fafgeeYMDycDmKoBTzdBYjpmX6YKw ",
-        'secret_key': "UnaJwTy5ENSeotxw1znU0KSOHPPEwUwP ",
+        'secret_id': "IKIDlT7fafgeeYMDycDmKoBTzdBYjpmX6YKw",
+        'secret_key': "UnaJwTy5ENSeotxw1znU0KSOHPPEwUwP",
         'url': test_url,
         'region': "ap-hongkong"
     })
