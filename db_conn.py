@@ -1,7 +1,7 @@
 db_config = DbConfig(
     params={
         'secret_name': "test",
-        'ip_address': "999.999.999.999",
+        'ip_address': "999.999.999.999", //test
         'port': 987654321,
         'db_name': "database_name",
         'param_str': "charset=utf8&loc=Local",
